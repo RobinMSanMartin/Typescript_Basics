@@ -20,7 +20,9 @@
     "noUnusedParameters": true,
     "erasableSyntaxOnly": false,//cambiado a false
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "noUncheckedSideEffectImports": true,
+
+    "experimentalDecorators": true
   },
   "include": ["src"]
 }
